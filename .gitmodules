@@ -1,0 +1,3 @@
+[submodule "FreeVC"]
+	path = FreeVC
+	url = https://github.com/OlaWod/FreeVC.git
